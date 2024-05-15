@@ -1,0 +1,4598 @@
+[
+  {
+    "date": "19-08-2023",
+    "home_team": "Cosenza",
+    "score": "3 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Modena",
+    "score": "1 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "29-08-2023",
+    "home_team": "Ascoli",
+    "score": "3 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "02-09-2023",
+    "home_team": "Sudtirol",
+    "score": "3 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Ascoli",
+    "score": "0 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Cremonese",
+    "score": "2 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Ascoli",
+    "score": "2 - 0",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Brescia",
+    "score": "1 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Ascoli",
+    "score": "1 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Lecco",
+    "score": "0 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Ascoli",
+    "score": "1 - 3",
+    "away_team": "Parma"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Bari",
+    "score": "1 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Ascoli",
+    "score": "0 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Venezia",
+    "score": "3 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Ascoli",
+    "score": "1 - 2",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Ascoli",
+    "score": "1 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Pisa",
+    "score": "1 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "14-01-2024",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "21-01-2024",
+    "home_team": "Ascoli",
+    "score": "2 - 2",
+    "away_team": "Bari"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Como",
+    "score": "0 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "04-02-2024",
+    "home_team": "Ascoli",
+    "score": "1 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Catanzaro",
+    "score": "3 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "16-02-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Feralpisalo",
+    "score": "0 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Ascoli",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "11-03-2024",
+    "home_team": "Sampdoria",
+    "score": "2 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "17-03-2024",
+    "home_team": "Ascoli",
+    "score": "4 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Spezia",
+    "score": "2 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "07-04-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Cittadella",
+    "score": "0 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Palermo",
+    "score": "2 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Ascoli",
+    "score": "2 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "18-08-2023",
+    "home_team": "Bari",
+    "score": "0 - 0",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Cremonese",
+    "score": "0 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "30-08-2023",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Ternana",
+    "score": "0 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Pisa",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "24-09-2023",
+    "home_team": "Bari",
+    "score": "2 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "27-09-2023",
+    "home_team": "Parma",
+    "score": "2 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "29-10-2023",
+    "home_team": "Brescia",
+    "score": "1 - 2",
+    "away_team": "Bari"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Bari",
+    "score": "1 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Feralpisalo",
+    "score": "3 - 3",
+    "away_team": "Bari"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Bari",
+    "score": "0 - 3",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "03-12-2023",
+    "home_team": "Lecco",
+    "score": "1 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Bari",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "15-12-2023",
+    "home_team": "Spezia",
+    "score": "1 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Bari",
+    "score": "0 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Bari",
+    "score": "3 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "21-01-2024",
+    "home_team": "Ascoli",
+    "score": "2 - 2",
+    "away_team": "Bari"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Bari",
+    "score": "0 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "02-02-2024",
+    "home_team": "Palermo",
+    "score": "3 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Bari",
+    "score": "3 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Bari",
+    "score": "1 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Sudtirol",
+    "score": "1 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Catanzaro",
+    "score": "2 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "10-03-2024",
+    "home_team": "Venezia",
+    "score": "3 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Bari",
+    "score": "0 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Modena",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "05-04-2024",
+    "home_team": "Bari",
+    "score": "1 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Cosenza",
+    "score": "4 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Parma"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Bari",
+    "score": "2 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "16-05-2024",
+    "home_team": "Bari",
+    "score": "? - ?",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Brescia",
+    "score": "1 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Lecco",
+    "score": "0 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Brescia",
+    "score": "0 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Spezia",
+    "score": "0 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Brescia",
+    "score": "1 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "06-10-2023",
+    "home_team": "Brescia",
+    "score": "1 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "24-10-2023",
+    "home_team": "Brescia",
+    "score": "0 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "29-10-2023",
+    "home_team": "Brescia",
+    "score": "1 - 2",
+    "away_team": "Bari"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Cittadella",
+    "score": "3 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "08-11-2023",
+    "home_team": "Palermo",
+    "score": "1 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "12-11-2023",
+    "home_team": "Brescia",
+    "score": "0 - 3",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Pisa",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "28-11-2023",
+    "home_team": "Sudtirol",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "03-12-2023",
+    "home_team": "Brescia",
+    "score": "3 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "10-12-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Brescia",
+    "score": "2 - 0",
+    "away_team": "Como"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Catanzaro",
+    "score": "2 - 3",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Brescia",
+    "score": "0 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Modena",
+    "score": "1 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Brescia",
+    "score": "1 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Cremonese",
+    "score": "1 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Brescia",
+    "score": "2 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "09-02-2024",
+    "home_team": "Como",
+    "score": "1 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Sampdoria",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Brescia",
+    "score": "0 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Ascoli",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "02-03-2024",
+    "home_team": "Brescia",
+    "score": "4 - 2",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "08-03-2024",
+    "home_team": "Parma",
+    "score": "2 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Brescia",
+    "score": "1 - 1",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Brescia",
+    "score": "3 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "14-04-2024",
+    "home_team": "Venezia",
+    "score": "2 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Brescia",
+    "score": "0 - 0",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Brescia",
+    "score": "0 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Feralpisalo",
+    "score": "2 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Brescia",
+    "score": "4 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Bari",
+    "score": "2 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "18-05-2024",
+    "home_team": "Catanzaro",
+    "score": "? - ?",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "19-08-2023",
+    "home_team": "Cremonese",
+    "score": "0 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "27-08-2023",
+    "home_team": "Catanzaro",
+    "score": "2 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "30-08-2023",
+    "home_team": "Catanzaro",
+    "score": "3 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Lecco",
+    "score": "3 - 4",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "17-09-2023",
+    "home_team": "Catanzaro",
+    "score": "0 - 5",
+    "away_team": "Parma"
+  },
+  {
+    "date": "24-09-2023",
+    "home_team": "Bari",
+    "score": "2 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "27-09-2023",
+    "home_team": "Catanzaro",
+    "score": "1 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Sudtirol",
+    "score": "0 - 1",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Catanzaro",
+    "score": "3 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Como",
+    "score": "1 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Catanzaro",
+    "score": "1 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "10-11-2023",
+    "home_team": "Venezia",
+    "score": "2 - 1",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "26-11-2023",
+    "home_team": "Catanzaro",
+    "score": "2 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "01-12-2023",
+    "home_team": "Palermo",
+    "score": "1 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Catanzaro",
+    "score": "2 - 0",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Ascoli",
+    "score": "1 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Catanzaro",
+    "score": "2 - 3",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "12-01-2024",
+    "home_team": "Catanzaro",
+    "score": "5 - 3",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Feralpisalo",
+    "score": "3 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "26-01-2024",
+    "home_team": "Catanzaro",
+    "score": "1 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Spezia",
+    "score": "1 - 1",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Catanzaro",
+    "score": "3 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Catanzaro",
+    "score": "2 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Catanzaro",
+    "score": "2 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Cosenza",
+    "score": "0 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Catanzaro",
+    "score": "0 - 1",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Brescia",
+    "score": "1 - 1",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Parma",
+    "score": "0 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Catanzaro",
+    "score": "1 - 2",
+    "away_team": "Como"
+  },
+  {
+    "date": "12-04-2024",
+    "home_team": "Modena",
+    "score": "1 - 3",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Catanzaro",
+    "score": "0 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "26-04-2024",
+    "home_team": "Pisa",
+    "score": "2 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Catanzaro",
+    "score": "3 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Ternana",
+    "score": "1 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Catanzaro",
+    "score": "1 - 3",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "18-05-2024",
+    "home_team": "Catanzaro",
+    "score": "? - ?",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "20-08-2023",
+    "home_team": "Cittadella",
+    "score": "1 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Parma",
+    "score": "2 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "30-08-2023",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Cittadella",
+    "score": "0 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "18-09-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 2",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "24-09-2023",
+    "home_team": "Cittadella",
+    "score": "0 - 3",
+    "away_team": "Como"
+  },
+  {
+    "date": "27-09-2023",
+    "home_team": "Catanzaro",
+    "score": "1 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Cittadella",
+    "score": "2 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Cittadella",
+    "score": "2 - 2",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Pisa",
+    "score": "2 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "27-10-2023",
+    "home_team": "Cittadella",
+    "score": "1 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Cittadella",
+    "score": "3 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "12-11-2023",
+    "home_team": "Palermo",
+    "score": "0 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Cittadella",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Feralpisalo",
+    "score": "0 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Cittadella",
+    "score": "2 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Modena",
+    "score": "1 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Cittadella",
+    "score": "4 - 1",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Cittadella",
+    "score": "2 - 0",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Ternana",
+    "score": "3 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "28-01-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Brescia",
+    "score": "2 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Spezia",
+    "score": "4 - 2",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "28-02-2024",
+    "home_team": "Venezia",
+    "score": "2 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Cittadella",
+    "score": "0 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Cosenza",
+    "score": "0 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Lecco",
+    "score": "1 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Reggiana",
+    "score": "0 - 2",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Cittadella",
+    "score": "0 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Cremonese",
+    "score": "3 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "20-08-2023",
+    "home_team": "Venezia",
+    "score": "3 - 0",
+    "away_team": "Como"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Como",
+    "score": "2 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Spezia",
+    "score": "0 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "17-09-2023",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "24-09-2023",
+    "home_team": "Cittadella",
+    "score": "0 - 3",
+    "away_team": "Como"
+  },
+  {
+    "date": "27-09-2023",
+    "home_team": "Como",
+    "score": "1 - 0",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "08-10-2023",
+    "home_team": "Como",
+    "score": "1 - 3",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "20-10-2023",
+    "home_team": "Parma",
+    "score": "2 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Como",
+    "score": "1 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Pisa",
+    "score": "1 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Ascoli",
+    "score": "0 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "28-11-2023",
+    "home_team": "Como",
+    "score": "0 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "03-12-2023",
+    "home_team": "Sudtirol",
+    "score": "0 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "10-12-2023",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Brescia",
+    "score": "2 - 0",
+    "away_team": "Como"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Como",
+    "score": "3 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Como"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Como",
+    "score": "4 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Reggiana",
+    "score": "2 - 2",
+    "away_team": "Como"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Como",
+    "score": "0 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "09-02-2024",
+    "home_team": "Como",
+    "score": "1 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Palermo",
+    "score": "3 - 0",
+    "away_team": "Como"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Como",
+    "score": "1 - 1",
+    "away_team": "Parma"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Lecco",
+    "score": "0 - 3",
+    "away_team": "Como"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Cremonese",
+    "score": "2 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Como",
+    "score": "3 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Como",
+    "score": "2 - 0",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Catanzaro",
+    "score": "1 - 2",
+    "away_team": "Como"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Feralpisalo",
+    "score": "2 - 5",
+    "away_team": "Como"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Sampdoria",
+    "score": "1 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Modena",
+    "score": "0 - 0",
+    "away_team": "Como"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Como",
+    "score": "1 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "19-08-2023",
+    "home_team": "Cosenza",
+    "score": "3 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Venezia",
+    "score": "1 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "29-08-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Brescia",
+    "score": "1 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Cosenza",
+    "score": "2 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "22-09-2023",
+    "home_team": "Palermo",
+    "score": "0 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Pisa",
+    "score": "1 - 2",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Cosenza",
+    "score": "3 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "22-10-2023",
+    "home_team": "Sampdoria",
+    "score": "2 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Spezia",
+    "score": "0 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Cosenza",
+    "score": "2 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "26-11-2023",
+    "home_team": "Catanzaro",
+    "score": "2 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 3",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Cittadella",
+    "score": "2 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Cosenza",
+    "score": "0 - 0",
+    "away_team": "Parma"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Bari",
+    "score": "0 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Como"
+  },
+  {
+    "date": "14-01-2024",
+    "home_team": "Cremonese",
+    "score": "1 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Cosenza",
+    "score": "4 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Cosenza",
+    "score": "1 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Modena",
+    "score": "1 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Lecco",
+    "score": "1 - 3",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "23-02-2024",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Cosenza",
+    "score": "0 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Cosenza",
+    "score": "0 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Ternana",
+    "score": "1 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Feralpisalo",
+    "score": "2 - 2",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Cosenza",
+    "score": "1 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "19-04-2024",
+    "home_team": "Reggiana",
+    "score": "0 - 4",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Cosenza",
+    "score": "4 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Cosenza",
+    "score": "2 - 2",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Como",
+    "score": "1 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "19-08-2023",
+    "home_team": "Cremonese",
+    "score": "0 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Cremonese",
+    "score": "0 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "30-08-2023",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Cremonese",
+    "score": "1 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Reggiana",
+    "score": "2 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Cremonese",
+    "score": "2 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Cremonese",
+    "score": "1 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "08-10-2023",
+    "home_team": "Como",
+    "score": "1 - 3",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Cremonese",
+    "score": "0 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "27-10-2023",
+    "home_team": "Cittadella",
+    "score": "1 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "05-11-2023",
+    "home_team": "Cremonese",
+    "score": "3 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "12-11-2023",
+    "home_team": "Brescia",
+    "score": "0 - 3",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Cremonese",
+    "score": "1 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Pisa",
+    "score": "0 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Cremonese",
+    "score": "1 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Feralpisalo",
+    "score": "1 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Cremonese",
+    "score": "4 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Palermo",
+    "score": "3 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "14-01-2024",
+    "home_team": "Cremonese",
+    "score": "1 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Spezia",
+    "score": "0 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Cremonese",
+    "score": "1 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Lecco",
+    "score": "0 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Cremonese",
+    "score": "1 - 1",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "16-02-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Cremonese",
+    "score": "2 - 2",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Sampdoria",
+    "score": "1 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Modena",
+    "score": "0 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Cremonese",
+    "score": "2 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Sudtirol",
+    "score": "3 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Cremonese",
+    "score": "0 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "05-04-2024",
+    "home_team": "Bari",
+    "score": "1 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Cremonese",
+    "score": "1 - 2",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Catanzaro",
+    "score": "0 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "26-04-2024",
+    "home_team": "Venezia",
+    "score": "2 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Cremonese",
+    "score": "2 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Cremonese",
+    "score": "3 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "20-08-2023",
+    "home_team": "Parma",
+    "score": "2 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Feralpisalo",
+    "score": "0 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "29-08-2023",
+    "home_team": "Ascoli",
+    "score": "3 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "02-09-2023",
+    "home_team": "Palermo",
+    "score": "3 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Feralpisalo",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Feralpisalo",
+    "score": "0 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Lecco",
+    "score": "1 - 2",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Feralpisalo",
+    "score": "1 - 2",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "06-10-2023",
+    "home_team": "Brescia",
+    "score": "1 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Catanzaro",
+    "score": "3 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Feralpisalo",
+    "score": "0 - 3",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Feralpisalo",
+    "score": "3 - 3",
+    "away_team": "Bari"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Feralpisalo",
+    "score": "0 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Ternana",
+    "score": "2 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Feralpisalo",
+    "score": "1 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Sampdoria",
+    "score": "2 - 3",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Feralpisalo",
+    "score": "2 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Sudtirol",
+    "score": "1 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Feralpisalo",
+    "score": "3 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Feralpisalo",
+    "score": "5 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Feralpisalo",
+    "score": "1 - 2",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Bari",
+    "score": "1 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Feralpisalo",
+    "score": "0 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "28-02-2024",
+    "home_team": "Spezia",
+    "score": "0 - 2",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Feralpisalo",
+    "score": "1 - 3",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Modena",
+    "score": "2 - 3",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Feralpisalo",
+    "score": "1 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Cremonese",
+    "score": "0 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Feralpisalo",
+    "score": "2 - 2",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Pisa",
+    "score": "3 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Feralpisalo",
+    "score": "2 - 5",
+    "away_team": "Como"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Feralpisalo",
+    "score": "2 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Venezia",
+    "score": "2 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Feralpisalo",
+    "score": "0 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Lecco",
+    "score": "3 - 4",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Lecco",
+    "score": "0 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Modena",
+    "score": "0 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Lecco",
+    "score": "1 - 2",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Cittadella",
+    "score": "2 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Cosenza",
+    "score": "3 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Lecco",
+    "score": "0 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "24-10-2023",
+    "home_team": "Pisa",
+    "score": "1 - 2",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "29-10-2023",
+    "home_team": "Palermo",
+    "score": "1 - 2",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "05-11-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "08-11-2023",
+    "home_team": "Lecco",
+    "score": "0 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "12-11-2023",
+    "home_team": "Lecco",
+    "score": "3 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Cremonese",
+    "score": "1 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "28-11-2023",
+    "home_team": "Como",
+    "score": "0 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "03-12-2023",
+    "home_team": "Lecco",
+    "score": "1 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Sampdoria",
+    "score": "2 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "17-12-2023",
+    "home_team": "Lecco",
+    "score": "2 - 3",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Venezia",
+    "score": "2 - 2",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Lecco",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "12-01-2024",
+    "home_team": "Catanzaro",
+    "score": "5 - 3",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Lecco",
+    "score": "1 - 3",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Feralpisalo",
+    "score": "5 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Lecco",
+    "score": "0 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Bari",
+    "score": "3 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Lecco",
+    "score": "1 - 3",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Ternana",
+    "score": "0 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Lecco",
+    "score": "0 - 3",
+    "away_team": "Como"
+  },
+  {
+    "date": "02-03-2024",
+    "home_team": "Sudtirol",
+    "score": "1 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "10-03-2024",
+    "home_team": "Lecco",
+    "score": "0 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "17-03-2024",
+    "home_team": "Ascoli",
+    "score": "4 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Lecco",
+    "score": "1 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Spezia",
+    "score": "1 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Lecco",
+    "score": "1 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Lecco",
+    "score": "1 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Parma",
+    "score": "4 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Lecco",
+    "score": "0 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Brescia",
+    "score": "4 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Lecco",
+    "score": "2 - 3",
+    "away_team": "Modena"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Modena",
+    "score": "1 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "29-08-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "02-09-2023",
+    "home_team": "Modena",
+    "score": "2 - 0",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Feralpisalo",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Modena",
+    "score": "0 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Sudtirol",
+    "score": "0 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Modena",
+    "score": "1 - 3",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Modena",
+    "score": "0 - 2",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "24-10-2023",
+    "home_team": "Brescia",
+    "score": "0 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "29-10-2023",
+    "home_team": "Modena",
+    "score": "2 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Catanzaro",
+    "score": "1 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Modena",
+    "score": "0 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Modena",
+    "score": "2 - 1",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "10-12-2023",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Modena",
+    "score": "1 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Cremonese",
+    "score": "4 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Spezia",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Modena",
+    "score": "1 - 2",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Palermo",
+    "score": "4 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Modena",
+    "score": "3 - 0",
+    "away_team": "Parma"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Sampdoria",
+    "score": "2 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Modena",
+    "score": "1 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "18-02-2024",
+    "home_team": "Venezia",
+    "score": "2 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "25-02-2024",
+    "home_team": "Modena",
+    "score": "0 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "28-02-2024",
+    "home_team": "Pisa",
+    "score": "2 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Modena",
+    "score": "0 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Modena",
+    "score": "2 - 3",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Modena",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Ternana",
+    "score": "0 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "12-04-2024",
+    "home_team": "Modena",
+    "score": "1 - 3",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Modena",
+    "score": "1 - 0",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Reggiana",
+    "score": "1 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Modena",
+    "score": "0 - 0",
+    "away_team": "Como"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Lecco",
+    "score": "2 - 3",
+    "away_team": "Modena"
+  },
+  {
+    "date": "18-08-2023",
+    "home_team": "Bari",
+    "score": "0 - 0",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "29-08-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "02-09-2023",
+    "home_team": "Palermo",
+    "score": "3 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Ascoli",
+    "score": "0 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "22-09-2023",
+    "home_team": "Palermo",
+    "score": "0 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Venezia",
+    "score": "1 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Palermo",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Modena",
+    "score": "0 - 2",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "23-10-2023",
+    "home_team": "Palermo",
+    "score": "2 - 2",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "29-10-2023",
+    "home_team": "Palermo",
+    "score": "1 - 2",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 0",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "08-11-2023",
+    "home_team": "Palermo",
+    "score": "1 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "12-11-2023",
+    "home_team": "Palermo",
+    "score": "0 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "26-11-2023",
+    "home_team": "Ternana",
+    "score": "1 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "01-12-2023",
+    "home_team": "Palermo",
+    "score": "1 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "10-12-2023",
+    "home_team": "Parma",
+    "score": "3 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Palermo",
+    "score": "3 - 2",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Como",
+    "score": "3 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Palermo",
+    "score": "3 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Cittadella",
+    "score": "2 - 0",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Palermo",
+    "score": "4 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "26-01-2024",
+    "home_team": "Catanzaro",
+    "score": "1 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "02-02-2024",
+    "home_team": "Palermo",
+    "score": "3 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Feralpisalo",
+    "score": "1 - 2",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Palermo",
+    "score": "3 - 0",
+    "away_team": "Como"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Cremonese",
+    "score": "2 - 2",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Palermo",
+    "score": "2 - 3",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "02-03-2024",
+    "home_team": "Brescia",
+    "score": "4 - 2",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "10-03-2024",
+    "home_team": "Lecco",
+    "score": "0 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "15-03-2024",
+    "home_team": "Palermo",
+    "score": "0 - 3",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Pisa",
+    "score": "4 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Palermo",
+    "score": "2 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Cosenza",
+    "score": "1 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "19-04-2024",
+    "home_team": "Palermo",
+    "score": "0 - 0",
+    "away_team": "Parma"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Palermo",
+    "score": "1 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Spezia",
+    "score": "1 - 0",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Palermo",
+    "score": "2 - 2",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "17-05-2024",
+    "home_team": "Palermo",
+    "score": "? - ?",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "20-08-2023",
+    "home_team": "Parma",
+    "score": "2 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Parma",
+    "score": "2 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "29-08-2023",
+    "home_team": "Pisa",
+    "score": "1 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "02-09-2023",
+    "home_team": "Parma",
+    "score": "0 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "17-09-2023",
+    "home_team": "Catanzaro",
+    "score": "0 - 5",
+    "away_team": "Parma"
+  },
+  {
+    "date": "24-09-2023",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "27-09-2023",
+    "home_team": "Parma",
+    "score": "2 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Cremonese",
+    "score": "1 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Venezia",
+    "score": "3 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "20-10-2023",
+    "home_team": "Parma",
+    "score": "2 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Ascoli",
+    "score": "1 - 3",
+    "away_team": "Parma"
+  },
+  {
+    "date": "05-11-2023",
+    "home_team": "Parma",
+    "score": "2 - 0",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "12-11-2023",
+    "home_team": "Lecco",
+    "score": "3 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Spezia",
+    "score": "0 - 1",
+    "away_team": "Parma"
+  },
+  {
+    "date": "10-12-2023",
+    "home_team": "Parma",
+    "score": "3 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Cosenza",
+    "score": "0 - 0",
+    "away_team": "Parma"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Parma",
+    "score": "3 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Brescia",
+    "score": "0 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "14-01-2024",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "19-01-2024",
+    "home_team": "Sampdoria",
+    "score": "0 - 3",
+    "away_team": "Parma"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Modena",
+    "score": "3 - 0",
+    "away_team": "Parma"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Parma",
+    "score": "2 - 1",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Parma",
+    "score": "3 - 2",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Como",
+    "score": "1 - 1",
+    "away_team": "Parma"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "02-03-2024",
+    "home_team": "Ternana",
+    "score": "1 - 3",
+    "away_team": "Parma"
+  },
+  {
+    "date": "08-03-2024",
+    "home_team": "Parma",
+    "score": "2 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Feralpisalo",
+    "score": "1 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Parma",
+    "score": "0 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 0",
+    "away_team": "Parma"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Parma",
+    "score": "2 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "19-04-2024",
+    "home_team": "Palermo",
+    "score": "0 - 0",
+    "away_team": "Parma"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Parma",
+    "score": "4 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Parma"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Parma"
+  },
+  {
+    "date": "25-08-2023",
+    "home_team": "Sampdoria",
+    "score": "0 - 2",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "29-08-2023",
+    "home_team": "Pisa",
+    "score": "1 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "02-09-2023",
+    "home_team": "Modena",
+    "score": "2 - 0",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Pisa",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Feralpisalo",
+    "score": "0 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Reggiana",
+    "score": "0 - 0",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Pisa",
+    "score": "1 - 2",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "08-10-2023",
+    "home_team": "Spezia",
+    "score": "0 - 0",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Pisa",
+    "score": "2 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "24-10-2023",
+    "home_team": "Pisa",
+    "score": "1 - 2",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "29-10-2023",
+    "home_team": "Venezia",
+    "score": "2 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Pisa",
+    "score": "1 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Sudtirol",
+    "score": "1 - 2",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Pisa",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Pisa",
+    "score": "0 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Catanzaro",
+    "score": "2 - 0",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Palermo",
+    "score": "3 - 2",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Pisa",
+    "score": "1 - 0",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Ternana",
+    "score": "1 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Pisa",
+    "score": "2 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Lecco",
+    "score": "1 - 3",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Pisa",
+    "score": "2 - 3",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Cosenza",
+    "score": "1 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Pisa",
+    "score": "2 - 0",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Parma",
+    "score": "3 - 2",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Pisa",
+    "score": "1 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "28-02-2024",
+    "home_team": "Pisa",
+    "score": "2 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Cittadella",
+    "score": "0 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Pisa",
+    "score": "1 - 0",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Como",
+    "score": "3 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Pisa",
+    "score": "4 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Brescia",
+    "score": "3 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Pisa",
+    "score": "3 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "26-04-2024",
+    "home_team": "Pisa",
+    "score": "2 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Cremonese",
+    "score": "2 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Pisa",
+    "score": "2 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Ascoli",
+    "score": "2 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "20-08-2023",
+    "home_team": "Cittadella",
+    "score": "1 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Como",
+    "score": "2 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "29-08-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "02-09-2023",
+    "home_team": "Parma",
+    "score": "0 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Reggiana",
+    "score": "2 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Spezia",
+    "score": "1 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Reggiana",
+    "score": "0 - 0",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Ternana",
+    "score": "3 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "22-10-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Feralpisalo",
+    "score": "0 - 3",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "05-11-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Cosenza",
+    "score": "2 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Modena",
+    "score": "2 - 1",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "10-12-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Sudtirol",
+    "score": "2 - 3",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Pisa",
+    "score": "2 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Reggiana",
+    "score": "2 - 2",
+    "away_team": "Como"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Bari",
+    "score": "0 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Cremonese",
+    "score": "1 - 1",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Reggiana",
+    "score": "0 - 2",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Brescia",
+    "score": "0 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Catanzaro",
+    "score": "0 - 1",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Reggiana",
+    "score": "0 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Venezia",
+    "score": "2 - 3",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Reggiana",
+    "score": "0 - 2",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Lecco",
+    "score": "1 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "19-04-2024",
+    "home_team": "Reggiana",
+    "score": "0 - 4",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Palermo",
+    "score": "1 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Reggiana",
+    "score": "1 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Sampdoria",
+    "score": "1 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Parma"
+  },
+  {
+    "date": "19-08-2023",
+    "home_team": "Ternana",
+    "score": "1 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "25-08-2023",
+    "home_team": "Sampdoria",
+    "score": "0 - 2",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "30-08-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Cremonese",
+    "score": "1 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "18-09-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 2",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "24-09-2023",
+    "home_team": "Parma",
+    "score": "1 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "27-09-2023",
+    "home_team": "Como",
+    "score": "1 - 0",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 2",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Ascoli",
+    "score": "1 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "22-10-2023",
+    "home_team": "Sampdoria",
+    "score": "2 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Sudtirol",
+    "score": "3 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 0",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Modena",
+    "score": "0 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "24-11-2023",
+    "home_team": "Sampdoria",
+    "score": "2 - 1",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "03-12-2023",
+    "home_team": "Brescia",
+    "score": "3 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Sampdoria",
+    "score": "2 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Sampdoria",
+    "score": "2 - 3",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "14-01-2024",
+    "home_team": "Venezia",
+    "score": "5 - 3",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "19-01-2024",
+    "home_team": "Sampdoria",
+    "score": "0 - 3",
+    "away_team": "Parma"
+  },
+  {
+    "date": "28-01-2024",
+    "home_team": "Cittadella",
+    "score": "1 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Sampdoria",
+    "score": "2 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Pisa",
+    "score": "2 - 0",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Sampdoria",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "23-02-2024",
+    "home_team": "Cosenza",
+    "score": "1 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Sampdoria",
+    "score": "1 - 2",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Feralpisalo",
+    "score": "1 - 3",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "11-03-2024",
+    "home_team": "Sampdoria",
+    "score": "2 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Bari",
+    "score": "0 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Sampdoria",
+    "score": "4 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Palermo",
+    "score": "2 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Sampdoria",
+    "score": "0 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Spezia",
+    "score": "0 - 0",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Sampdoria",
+    "score": "1 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Lecco",
+    "score": "0 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Sampdoria",
+    "score": "1 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Catanzaro",
+    "score": "1 - 3",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "17-05-2024",
+    "home_team": "Palermo",
+    "score": "? - ?",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "20-08-2023",
+    "home_team": "Sudtirol",
+    "score": "3 - 3",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "30-08-2023",
+    "home_team": "Catanzaro",
+    "score": "3 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Spezia",
+    "score": "0 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "15-09-2023",
+    "home_team": "Venezia",
+    "score": "1 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Spezia",
+    "score": "1 - 2",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Spezia",
+    "score": "0 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Feralpisalo",
+    "score": "1 - 2",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "08-10-2023",
+    "home_team": "Spezia",
+    "score": "0 - 0",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "23-10-2023",
+    "home_team": "Palermo",
+    "score": "2 - 2",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Spezia",
+    "score": "0 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "05-11-2023",
+    "home_team": "Cremonese",
+    "score": "3 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "08-11-2023",
+    "home_team": "Lecco",
+    "score": "0 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "12-11-2023",
+    "home_team": "Spezia",
+    "score": "2 - 2",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "24-11-2023",
+    "home_team": "Sampdoria",
+    "score": "2 - 1",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Spezia",
+    "score": "0 - 1",
+    "away_team": "Parma"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Ascoli",
+    "score": "1 - 2",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "15-12-2023",
+    "home_team": "Spezia",
+    "score": "1 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Cittadella",
+    "score": "4 - 1",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Spezia",
+    "score": "1 - 1",
+    "away_team": "Modena"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Como",
+    "score": "4 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Spezia",
+    "score": "0 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Pisa",
+    "score": "2 - 3",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Spezia",
+    "score": "1 - 1",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "11-02-2024",
+    "home_team": "Ternana",
+    "score": "1 - 1",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Spezia",
+    "score": "4 - 2",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "25-02-2024",
+    "home_team": "Modena",
+    "score": "0 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "28-02-2024",
+    "home_team": "Spezia",
+    "score": "0 - 2",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Bari",
+    "score": "1 - 1",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Spezia",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Reggiana",
+    "score": "0 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Spezia",
+    "score": "2 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Spezia",
+    "score": "1 - 1",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Parma",
+    "score": "2 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Spezia",
+    "score": "0 - 0",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Brescia",
+    "score": "0 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Spezia",
+    "score": "1 - 0",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Cosenza",
+    "score": "2 - 2",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Spezia",
+    "score": "2 - 1",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "20-08-2023",
+    "home_team": "Sudtirol",
+    "score": "3 - 3",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Feralpisalo",
+    "score": "0 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "02-09-2023",
+    "home_team": "Sudtirol",
+    "score": "3 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "16-09-2023",
+    "home_team": "Cosenza",
+    "score": "2 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Ternana",
+    "score": "1 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Sudtirol",
+    "score": "0 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "01-10-2023",
+    "home_team": "Palermo",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Sudtirol",
+    "score": "0 - 1",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Cremonese",
+    "score": "0 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "28-10-2023",
+    "home_team": "Sudtirol",
+    "score": "3 - 1",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "05-11-2023",
+    "home_team": "Parma",
+    "score": "2 - 0",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "11-11-2023",
+    "home_team": "Sudtirol",
+    "score": "1 - 2",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Cittadella",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "28-11-2023",
+    "home_team": "Sudtirol",
+    "score": "1 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "03-12-2023",
+    "home_team": "Sudtirol",
+    "score": "0 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Bari",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Venezia",
+    "score": "2 - 3",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Sudtirol",
+    "score": "2 - 3",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Lecco",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Sudtirol",
+    "score": "1 - 0",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Brescia",
+    "score": "1 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "04-02-2024",
+    "home_team": "Ascoli",
+    "score": "1 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 3",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Catanzaro",
+    "score": "2 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Sudtirol",
+    "score": "1 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Reggiana",
+    "score": "1 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "02-03-2024",
+    "home_team": "Sudtirol",
+    "score": "1 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Spezia",
+    "score": "2 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Sudtirol",
+    "score": "3 - 0",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Como",
+    "score": "2 - 0",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 0",
+    "away_team": "Parma"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Sampdoria",
+    "score": "0 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Modena",
+    "score": "1 - 0",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Sudtirol",
+    "score": "4 - 3",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Pisa",
+    "score": "2 - 2",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "19-08-2023",
+    "home_team": "Ternana",
+    "score": "1 - 2",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "27-08-2023",
+    "home_team": "Catanzaro",
+    "score": "2 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "30-08-2023",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Ternana",
+    "score": "0 - 0",
+    "away_team": "Bari"
+  },
+  {
+    "date": "17-09-2023",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Ternana",
+    "score": "1 - 1",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Ascoli",
+    "score": "2 - 0",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Ternana",
+    "score": "3 - 0",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Cittadella",
+    "score": "2 - 2",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "21-10-2023",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "29-10-2023",
+    "home_team": "Modena",
+    "score": "2 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "12-11-2023",
+    "home_team": "Spezia",
+    "score": "2 - 2",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "26-11-2023",
+    "home_team": "Ternana",
+    "score": "1 - 1",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Cosenza",
+    "score": "1 - 3",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Ternana",
+    "score": "2 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "17-12-2023",
+    "home_team": "Lecco",
+    "score": "2 - 3",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Parma",
+    "score": "3 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Ternana",
+    "score": "1 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "13-01-2024",
+    "home_team": "Bari",
+    "score": "3 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Ternana",
+    "score": "3 - 1",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Venezia",
+    "score": "1 - 0",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Como"
+  },
+  {
+    "date": "11-02-2024",
+    "home_team": "Ternana",
+    "score": "1 - 1",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "17-02-2024",
+    "home_team": "Reggiana",
+    "score": "0 - 2",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Ternana",
+    "score": "0 - 0",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "27-02-2024",
+    "home_team": "Palermo",
+    "score": "2 - 3",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "02-03-2024",
+    "home_team": "Ternana",
+    "score": "1 - 3",
+    "away_team": "Parma"
+  },
+  {
+    "date": "09-03-2024",
+    "home_team": "Pisa",
+    "score": "1 - 0",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "16-03-2024",
+    "home_team": "Ternana",
+    "score": "1 - 0",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Sampdoria",
+    "score": "4 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "06-04-2024",
+    "home_team": "Ternana",
+    "score": "0 - 0",
+    "away_team": "Modena"
+  },
+  {
+    "date": "13-04-2024",
+    "home_team": "Cremonese",
+    "score": "1 - 2",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Brescia",
+    "score": "0 - 0",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "27-04-2024",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Sudtirol",
+    "score": "4 - 3",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Ternana",
+    "score": "1 - 0",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Feralpisalo",
+    "score": "0 - 1",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "16-05-2024",
+    "home_team": "Bari",
+    "score": "? - ?",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "20-08-2023",
+    "home_team": "Venezia",
+    "score": "3 - 0",
+    "away_team": "Como"
+  },
+  {
+    "date": "26-08-2023",
+    "home_team": "Venezia",
+    "score": "1 - 1",
+    "away_team": "Cosenza"
+  },
+  {
+    "date": "30-08-2023",
+    "home_team": "Sampdoria",
+    "score": "1 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "03-09-2023",
+    "home_team": "Cittadella",
+    "score": "0 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "15-09-2023",
+    "home_team": "Venezia",
+    "score": "1 - 0",
+    "away_team": "Spezia"
+  },
+  {
+    "date": "23-09-2023",
+    "home_team": "Brescia",
+    "score": "0 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "26-09-2023",
+    "home_team": "Venezia",
+    "score": "1 - 3",
+    "away_team": "Palermo"
+  },
+  {
+    "date": "30-09-2023",
+    "home_team": "Modena",
+    "score": "1 - 3",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "07-10-2023",
+    "home_team": "Venezia",
+    "score": "3 - 2",
+    "away_team": "Parma"
+  },
+  {
+    "date": "22-10-2023",
+    "home_team": "Reggiana",
+    "score": "1 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "29-10-2023",
+    "home_team": "Venezia",
+    "score": "2 - 1",
+    "away_team": "Pisa"
+  },
+  {
+    "date": "04-11-2023",
+    "home_team": "Ternana",
+    "score": "0 - 1",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "10-11-2023",
+    "home_team": "Venezia",
+    "score": "2 - 1",
+    "away_team": "Catanzaro"
+  },
+  {
+    "date": "25-11-2023",
+    "home_team": "Bari",
+    "score": "0 - 3",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "02-12-2023",
+    "home_team": "Venezia",
+    "score": "3 - 1",
+    "away_team": "Ascoli"
+  },
+  {
+    "date": "09-12-2023",
+    "home_team": "Cremonese",
+    "score": "1 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "16-12-2023",
+    "home_team": "Venezia",
+    "score": "2 - 3",
+    "away_team": "Sudtirol"
+  },
+  {
+    "date": "23-12-2023",
+    "home_team": "Venezia",
+    "score": "2 - 2",
+    "away_team": "Lecco"
+  },
+  {
+    "date": "26-12-2023",
+    "home_team": "Feralpisalo",
+    "score": "2 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "14-01-2024",
+    "home_team": "Venezia",
+    "score": "5 - 3",
+    "away_team": "Sampdoria"
+  },
+  {
+    "date": "20-01-2024",
+    "home_team": "Cosenza",
+    "score": "4 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "27-01-2024",
+    "home_team": "Venezia",
+    "score": "1 - 0",
+    "away_team": "Ternana"
+  },
+  {
+    "date": "03-02-2024",
+    "home_team": "Parma",
+    "score": "2 - 1",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "10-02-2024",
+    "home_team": "Sudtirol",
+    "score": "0 - 3",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "18-02-2024",
+    "home_team": "Venezia",
+    "score": "2 - 2",
+    "away_team": "Modena"
+  },
+  {
+    "date": "24-02-2024",
+    "home_team": "Pisa",
+    "score": "1 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "28-02-2024",
+    "home_team": "Venezia",
+    "score": "2 - 0",
+    "away_team": "Cittadella"
+  },
+  {
+    "date": "03-03-2024",
+    "home_team": "Como",
+    "score": "2 - 1",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "10-03-2024",
+    "home_team": "Venezia",
+    "score": "3 - 1",
+    "away_team": "Bari"
+  },
+  {
+    "date": "15-03-2024",
+    "home_team": "Palermo",
+    "score": "0 - 3",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "01-04-2024",
+    "home_team": "Venezia",
+    "score": "2 - 3",
+    "away_team": "Reggiana"
+  },
+  {
+    "date": "07-04-2024",
+    "home_team": "Ascoli",
+    "score": "0 - 0",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "14-04-2024",
+    "home_team": "Venezia",
+    "score": "2 - 0",
+    "away_team": "Brescia"
+  },
+  {
+    "date": "20-04-2024",
+    "home_team": "Lecco",
+    "score": "1 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "26-04-2024",
+    "home_team": "Venezia",
+    "score": "2 - 1",
+    "away_team": "Cremonese"
+  },
+  {
+    "date": "01-05-2024",
+    "home_team": "Catanzaro",
+    "score": "3 - 2",
+    "away_team": "Venezia"
+  },
+  {
+    "date": "05-05-2024",
+    "home_team": "Venezia",
+    "score": "2 - 1",
+    "away_team": "Feralpisalo"
+  },
+  {
+    "date": "10-05-2024",
+    "home_team": "Spezia",
+    "score": "2 - 1",
+    "away_team": "Venezia"
+  }
+]
