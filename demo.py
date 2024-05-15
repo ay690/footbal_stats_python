@@ -54,8 +54,13 @@ time.sleep(20)
 
 # make dataframe that is df
 df = pd.DataFrame({'date': date, 'home_team': home_team, 'score': score, 'away_team': away_team})
+
+# exctracting data in csv
 df.to_csv('football_stats.csv', index=False)
+
+# extarcting the data in json 
 df.to_json('football_stats.json', orient='records')
+
 print(df)
 
 
